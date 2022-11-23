@@ -22,4 +22,8 @@ communication between the MCU and the sensor is done via I2C. Communication betw
 + **PETG or Cardboard shell** : ZahirCaseV1_2(littleSmaller).stl
 + **wristband attachment system** : (wip)
 
+### THINGS YOU'LL NEED TO **CODE** (example file)
+
+You'll find an example file (codeExample.ino) that does very basic stuff : it sends x acceleration values through port 20, and x rotation speed through port 21. You can map those values to whatever parameters you wish to play on (basic use of this device would be to alter a filter cutoff frequency, but it really is just an example).
+
 ---------------------------------------------
