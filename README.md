@@ -15,9 +15,9 @@ THINGS YOU'LL NEED TO BUY
 
 THINGS YOU'LL NEED TO BUILD (files)
 
-**internal structure**
-**base**
-**PETG or Cardboard shell**
-**wristband attachment system**
++ **internal structure**
++ **base**
++ **PETG or Cardboard shell**
++ **wristband attachment system**
 
 ---------------------------------------------
