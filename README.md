@@ -7,11 +7,11 @@ list of the different parts : (see exploded view for an image of all the items)
 ---------------------------------------------
 THINGS YOU'LL NEED TO BUY
 
-**MCU :** adafruit QT-PY ESP32 C-3
-**sensor** (the one I use) : Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope
-**lipo :** Lithium Ion Polymer Battery - 3.7v 150mAh
-**tiny threaded insert**
-**elastic band** (size of your choice really)
++ **MCU :** adafruit QT-PY ESP32 C-3 
++ **sensor** (the one I use) : Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope
++ **lipo :** Lithium Ion Polymer Battery - 3.7v 150mAh
++ **tiny threaded insert**
++ **elastic band** (size of your choice really)
 
 THINGS YOU'LL NEED TO BUILD (files)
 
