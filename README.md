@@ -13,7 +13,7 @@ THINGS YOU'LL NEED TO BUY
 **tiny threaded insert**
 **elastic band** (size of your choice really)
 
-THINGS YOU'LL NEED TO BUILD (files 
+THINGS YOU'LL NEED TO BUILD (files)
 
 **internal structure**
 **base**
