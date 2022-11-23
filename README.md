@@ -10,8 +10,8 @@ communication between the MCU and the sensor is done via I2C. Communication betw
 ### THINGS YOU'LL NEED TO **BUY**
 
 + **MCU :** [adafruit QT-PY ESP32 C-3](https://www.adafruit.com/product/5405)
-+ **sensor** (the one I use) : Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope
-+ **lipo :** Lithium Ion Polymer Battery - 3.7v 150mAh
++ **sensor** (the one I use) : [Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope](https://www.adafruit.com/product/4438)
++ **lipo :** [Lithium Ion Polymer Battery - 3.7v 150mAh](https://www.adafruit.com/product/1317)
 + **tiny threaded insert**
 + **elastic band** (size of your choice really)
 
