@@ -17,10 +17,9 @@ communication between the MCU and the sensor is done via I2C. Communication betw
 
 ### THINGS YOU'LL NEED TO **BUILD** (files)
 
-+ **internal structure** internalStructureV4.stl
-+ **base** ZahirCaseClosureV5.stl
-+ **PETG or Cardboard shell** ZahirCaseV1_2(littleSmaller).stl
-+ **wristband attachment system** (wip)
++ **internal structure** : internalStructureV4.stl
++ **base** : ZahirCaseClosureV5.stl
++ **PETG or Cardboard shell** : ZahirCaseV1_2(littleSmaller).stl
++ **wristband attachment system** : (wip)
 
 ---------------------------------------------
-[GitHub Pages](https://pages.github.com/)
