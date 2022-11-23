@@ -9,7 +9,7 @@ communication between the MCU and the sensor is done via I2C. Communication betw
 ---------------------------------------------
 ### THINGS YOU'LL NEED TO **BUY**
 
-+ **MCU :** adafruit QT-PY ESP32 C-3 
++ **MCU :** [adafruit QT-PY ESP32 C-3] (https://www.adafruit.com/product/5405)
 + **sensor** (the one I use) : Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope
 + **lipo :** Lithium Ion Polymer Battery - 3.7v 150mAh
 + **tiny threaded insert**
@@ -17,9 +17,10 @@ communication between the MCU and the sensor is done via I2C. Communication betw
 
 ### THINGS YOU'LL NEED TO **BUILD** (files)
 
-+ **internal structure**
-+ **base**
-+ **PETG or Cardboard shell**
-+ **wristband attachment system**
++ **internal structure** internalStructureV4.stl
++ **base** ZahirCaseClosureV5.stl
++ **PETG or Cardboard shell** ZahirCaseV1_2(littleSmaller).stl
++ **wristband attachment system** (wip)
 
 ---------------------------------------------
+[GitHub Pages](https://pages.github.com/)
